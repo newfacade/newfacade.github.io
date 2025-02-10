@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am an R&D engineer from Baidu. I enjoy LLM, mathematics, and writing blogs ✍️. My research interests can be tagged as LLM, code and RLHF.
+Hi, I am an R&D engineer from Baidu. I enjoy LLM, mathematics, and ✍️ blogs. My research interests can be tagged as LLM, code, math, RLHF and reasoning.
 
-Email: newfacade@163.com
-Github: newfacade.github.com
+Email: newfacade@163.com<br/>
+Github: ![](https://github.com/newfacade)
